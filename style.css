@@ -15,7 +15,7 @@ section {
     color: black ;;
     background: #;;
     padding-top: 80px;
-    padding-bottom: 8opx;
+    padding-bottom: 80px;
     display: flex; /*tona flexivel = põe um lado do outro */
     justify-content: center; /* centralizar */
 }
