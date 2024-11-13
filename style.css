@@ -14,7 +14,16 @@ h2{
 section {
     color: black ;;
     background: #;;
+    padding-top: 80px;
+    padding-bottom: 8opx;
+    display: flex; /*tona flexivel = põe um lado do outro */
+    justify-content: center; /* centralizar */
 }
 
+.chamada-texto {
+    margin-right:15%;
+}
 
-
+img{
+    height: 200px;
+}
